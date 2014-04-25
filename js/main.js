@@ -43,7 +43,7 @@ $(function() {
 			}
 		}
 		
-		hexphrase = phraseToHex("NO!");
+		hexphrase = phraseToHex("Suriyaa Kudo");
 		
 		for(jj=0; jj<hexphrase.length; jj+=2) {
 			var cc_hex = "A" + hexphrase.charAt(jj) + hexphrase.charAt(jj+1);
