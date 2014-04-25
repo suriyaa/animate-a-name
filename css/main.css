@@ -1,11 +1,10 @@
-
 * { margin: 0; padding: 0;}
 
 body, html { height:100%; }
 
 body { 
 	text-align:center;
-	font-family: 'Molengo', Arial, serif;
+	font-family: 'Helvetica Neue', Verdana, sans-serif;
 }
 h1 { 
 	font-size:190px;
