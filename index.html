@@ -1,13 +1,30 @@
 <!DOCTYPE html>
-<html lang="en">
-    <title>Animate your name | Suriyaa Kudo @ GitHub</title>
-    <meta charset="utf-8">
-<link rel="stylesheet" href="css/main.css" />
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-<script type="text/javascript" src="js/main.js"></script>
-
+<html lang="en" class="no-js">
+<head>
+	<meta charset="utf-8">
+	<title>Animate your name | Suriyaa Kudo @ GitHub</title>
+	<meta name="viewport" content="width=480">
+	<meta name="keywords" content="google,bouncing balls,html5" />
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+	<script src="js/modernizr-1.5.min.js"></script>
+	<script src="js/alphabet.js"></script>
+	<script src="js/main.js"></script>
+	<link href="http://fonts.googleapis.com/css?family=Vollkorn" rel="stylesheet">
+	<link href="css/main.css" rel="stylesheet">
+	<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
 <body>
-<canvas id="c" width="400" height="400"></canvas>
-<p id="attribution">Made by Suriyaa Kudo | <a href="http://twitter.com/SuriyaaKudoIsc">Twitter</a> | <a href="http://www.facebook.com/suriyaa.kduo">Facebook</a></p>
+	<noscript><h1>Suriyaa Kudo</h1></noscript>
+	<script>if (!Modernizr.canvas) document.write("<h1>NO!</h1>");</script>	
+	<canvas id="c"></canvas>
+	
+	<footer>
+		<ul id="people">
+		<p id="attribution">Made by Suriyaa Kudo | <a href="http://twitter.com/SuriyaaKudoIsc">Twitter</a> | <a href="http://www.facebook.com/suriyaa.kduo">Facebook</a></p>
+
+			<li>built by <a href="https://github.com/SuriyaaKudoIsc" onClick="javascript: pageTracker._trackPageview('Attribution/iandevlin');">Suriyaa Kudo</a></li>
+			<li>by <a href="http://twitter.com/SuriyaaKudoIsc" onClick="javascript: pageTracker._trackPageview('Attribution/mbrenig');">Suriyaa Kudo</a></li>
+		</ul>
+	</footer>
 </body>
 </html>
