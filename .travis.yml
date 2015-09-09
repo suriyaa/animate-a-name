@@ -15,5 +15,5 @@ sudo: false
 git:
   submodules: false
 
-install:
+before_script:
   - npm install
