@@ -10,6 +10,8 @@ node_js:
   - "iojs"
   - "iojs-v1.0.4"
 
+sudo: false
+
 git:
   submodules: false
 
