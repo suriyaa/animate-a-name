@@ -15,6 +15,13 @@ sudo: false
 git:
   submodules: false
 
+notifications:
+  email:
+    recipients:
+      - SuriyaaKudoIsc@users.noreply.github.com
+    on_success: change # default: change
+    on_failure: always # default: always
+
 before_script:
   - npm install
 
