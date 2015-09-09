@@ -1,0 +1,27 @@
+{
+  "name": "Animate A Name",
+  "version": "1.0.0",
+  "description": "A Google Doodle by Suriyaa Kudo.",
+  "keywords": [
+    "animate a name",
+    "suriyaa kudo",
+    "github pages",
+    "website",
+    "official"
+  ],
+  "homepage": "https://github.com/SuriyaaKudoIsc/animate-a-name",
+  "bugs": "https://github.com/SuriyaaKudoIsc/animate-a-name/issues",
+  "author": {
+    "name": "Suriyaa Kudo",
+    "email": "SuriyaaKudoIsc@users.noreply.github.com",
+    "url": "https://bit.ly/Suriyaa"
+  },
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SuriyaaKudoIsc/animate-a-name.git"
+  },
+  "dependencies": {
+    "jsmin": "1.0.1",
+  }
+}
