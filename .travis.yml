@@ -30,6 +30,4 @@ before_script:
   - npm install
 
 install:
-  - travis_retry bundle install
-  - travis_wait mvn install
   - gem install travis-lint
