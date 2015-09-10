@@ -1,4 +1,4 @@
-# Animate a Name [![Build Status](https://travis-ci.org/SuriyaaKudoIsc/animate-a-name.svg?branch=gh-pages)](https://travis-ci.org/SuriyaaKudoIsc/animate-a-name)
+# Animate a Name [![Travis CI Build Status](https://travis-ci.org/SuriyaaKudoIsc/animate-a-name.svg?branch=gh-pages)](https://travis-ci.org/SuriyaaKudoIsc/animate-a-name) [![current npm project version](https://img.shields.io/npm/v/animate-a-name.svg)](https://img.shields.io/npm/v/animate-a-name.svg)
 
 Animate a name based on a idea of [Suriyaa Kudo](https://github.com/SuriyaaKudoIsc) and inspired by [Google](https://github.com/Google) and robhawkes.
 
