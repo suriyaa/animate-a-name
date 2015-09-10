@@ -15,6 +15,10 @@ sudo: false
 git:
   submodules: false
 
+branches:
+  only:
+    - gh-pages
+
 notifications:
   email:
     recipients:
