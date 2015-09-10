@@ -1,5 +1,4 @@
-Animate a Name
-==============
+# Animate a Name
 
 Animate a name based on a idea of [Suriyaa Kudo](https://github.com/SuriyaaKudoIsc) and inspired by [Google](https://github.com/Google) and robhawkes.
 
@@ -9,8 +8,7 @@ Animate a name based on a idea of [Suriyaa Kudo](https://github.com/SuriyaaKudoI
 * Meaning: Use everywhere, keep copyright, it'd be swell if you'd link back here.
 
 
-Thanks to
-==============
+## Thanks to...
 
 * [iSC](http://isc.isc), my own company which supports me.
 * [GitHub](https://github.com/), allowed to write the code.
@@ -18,7 +16,6 @@ Thanks to
 * [robhawkes](https://github.com/robhawkes), thanks for learning how to animate a text.
 
 
-Contributors
-==============
+## Contributors
 
 * [Suriyaa Kudo](https://github.com/SuriyaaKudoIsc), founder of this repository.
