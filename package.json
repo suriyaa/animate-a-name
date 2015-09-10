@@ -17,7 +17,11 @@
     "suriyaa",
     "kudo"
   ],
-  "author": "Suriyaa Kudo",
+  "author": {
+    "name": "Suriyaa Kudo",
+    "email": "SuriyaaKudoIsc@users.noreply.github.com",
+    "url": "https://bit.ly/Suriyaa"
+  },
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/SuriyaaKudoIsc/animate-a-name/issues"
