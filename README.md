@@ -10,8 +10,8 @@ Animate a name based on a idea of [Suriyaa Kudo](https://github.com/SuriyaaKudoI
 
 ## Thanks to...
 
-* [iSC](http://isc.isc), my own company which supports me.
-* [GitHub](https://github.com/), allowed to write the code.
+* [iSC Enterprise Group (iEG)](http://group.isc), my own company group which supports me.
+* [GitHub](https://github.com/), allowed to write and publsih this the code.
 * [Google](https://google.com/), inspiered by the idea.
 * [robhawkes](https://github.com/robhawkes), thanks for learning how to animate a text.
 
