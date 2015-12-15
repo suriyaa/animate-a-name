@@ -79,7 +79,7 @@ $ git rebase upstream/master
 $ git push origin my-feature-branch
 ```
 
-Go to https://github.com/yourusername/WOWS and select your feature branch. Click the 'Pull Request' button and fill out the form.
+Go to https://github.com/yourusername/animate-a-name and select your feature branch. Click the 'Pull Request' button and fill out the form.
 
 Pull requests are usually reviewed within a few days.  If there are comments to address, apply your changes in a separate commit and push that to your feature branch.  Post a comment in the pull request afterwards; GitHub does not send out notifications when you add commits.
 
