@@ -1,4 +1,4 @@
-# Contributing to WOWS
+# Contributing to this project
 
 > This document will guide you through the contribution process.
 
