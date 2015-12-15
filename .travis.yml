@@ -32,3 +32,4 @@ before_script:
 install:
   - gem install travis-lint
   - gem install jekyll
+  - gem install html-proofer
