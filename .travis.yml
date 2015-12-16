@@ -32,7 +32,7 @@ before_script:
 install:
   - gem install travis-lint
   # Install Jekyll and dependencies
-  - bundle install
+  ## - bundle install
 
 script:
 #  - jekyll build
