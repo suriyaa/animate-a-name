@@ -1,11 +1,9 @@
 {
   "name": "animate-a-name",
   "version": "1.0.1",
+  "contributors" : "Suriyaa Kudo",
   "description": "A Google Doodle by Suriyaa Kudo.",
   "main": "index.html",
-  "scripts": {
-    "test": "npm install"
-  },
   "repository": {
     "type": "git",
     "url": "git@github.com:SuriyaaKudoIsc/animate-a-name.git"
@@ -31,5 +29,14 @@
   "bugs": {
     "url": "https://github.com/SuriyaaKudoIsc/animate-a-name/issues"
   },
-  "homepage": "https://j.mp/AnimateAName"
+  "homepage": "https://j.mp/AnimateAName",
+  "engines" : {
+    "node" : "5.5.0"
+  },
+  "scripts": {
+    "test": "npm install"
+  },
+  "dependencies": {
+    "hubot-shipit": "~0.2.0"
+  }
 }
