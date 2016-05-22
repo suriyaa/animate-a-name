@@ -1,6 +1,6 @@
 # Animate a Name [![Travis CI Build Status](https://travis-ci.org/SuriyaaKudoIsc/animate-a-name.svg?branch=gh-pages)](https://travis-ci.org/SuriyaaKudoIsc/animate-a-name) [![current npm project version](https://img.shields.io/npm/v/animate-a-name.svg)](https://img.shields.io/npm/v/animate-a-name.svg)
 
-Animate a name based on a idea of [Suriyaa Kudo](https://github.com/SuriyaaKudoIsc) and inspired by [Google](https://github.com/Google) and robhawkes.
+> **Animate A Name *(version 1)*** based on a idea of [Suriyaa Kudo](https://github.com/SuriyaaKudoIsc) and inspired by [Google](https://github.com/Google) and robhawkes.
 
 * Author: Suriyaa Kudo [https://github.com/SuriyaaKudoIsc](https://github.com/SuriyaaKudoIsc)
 * Website: [http://suriyaakudoisc.github.io/animate-a-name/](http://suriyaakudoisc.github.io/animate-a-name/)
@@ -19,3 +19,15 @@ Animate a name based on a idea of [Suriyaa Kudo](https://github.com/SuriyaaKudoI
 ## Contributors
 
 * [Suriyaa Kudo](https://github.com/SuriyaaKudoIsc), founder of this repository.
+
+----
+
+## Versions
+
+### Version 1
+* Repository: https://github.com/SuriyaaKudoIsc/animate-a-name
+* Website: https://j.mp/AnimateAName
+
+### Version 2
+* Repository: https://github.com/AnimateLogo/animate-a-name-v2
+* Website: https://animate-a-name.tk/
