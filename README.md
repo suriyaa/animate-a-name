@@ -26,7 +26,7 @@
 
 ### Version 1
 * Repository: https://github.com/SuriyaaKudoIsc/animate-a-name
-* Website: https://j.mp/AnimateAName
+* Website: https://v1.animate-a-name.tk/ (https://j.mp/AnimateAName)
 
 ### Version 2
 * Repository: https://github.com/AnimateLogo/animate-a-name-v2
