@@ -1,0 +1,52 @@
+{
+  "projectName": "animate-a-name",
+  "projectOwner": "SuriyaaKudoIsc",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "contributors": [
+    {
+      "login": "SuriyaaKudoIsc",
+      "name": "Suriyaa ✌️️",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/5073946?v=4",
+      "profile": "https://suriyaa.tk/",
+      "contributions": [
+        "code",
+        "design",
+        "doc",
+        "infra",
+        "platform",
+        "review"
+      ]
+    },
+    {
+      "login": "tyricec",
+      "name": "Tyrice Clark",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/3968741?v=4",
+      "profile": "https://github.com/tyricec",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "wunderkrause",
+      "name": "Austin Krause",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/33129538?v=4",
+      "profile": "https://github.com/wunderkrause",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "aahashderuffy",
+      "name": "Aahash de Ruffy",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/15701825?v=4",
+      "profile": "https://aahash.tk/",
+      "contributions": [
+        "code"
+      ]
+    }
+  ]
+}
