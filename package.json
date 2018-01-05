@@ -39,7 +39,7 @@
     "contributors:generate": "all-contributors generate"
   },
   "dependencies": {
-    "hubot-shipit": "~0.2.0"
+    
   },
   "devDependencies": {
     "all-contributors-cli": "^4.10.1"
