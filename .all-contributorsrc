@@ -47,6 +47,17 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "greenkeeper[bot]",
+      "name": "greenkeeper[bot]",
+      "avatar_url": "https://avatars3.githubusercontent.com/in/505?v=4",
+      "profile": "https://github.com/apps/greenkeeper",
+      "contributions": [
+        "code",
+        "tool"
+      ]
     }
-  ]
+  ],
+  "repoType": "github"
 }

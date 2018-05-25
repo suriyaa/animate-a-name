@@ -35,13 +35,11 @@
   },
   "scripts": {
     "test": "npm install",
-	"contributors:add": "all-contributors add",
+    "contributors:add": "all-contributors add",
     "contributors:generate": "all-contributors generate"
   },
-  "dependencies": {
-    
-  },
+  "dependencies": {},
   "devDependencies": {
-    "all-contributors-cli": "^4.10.1"
+    "all-contributors-cli": "^4.11.1"
   }
 }
