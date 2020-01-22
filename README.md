@@ -28,8 +28,8 @@
       alt="PRs Welcome" />
   </a>
   <!-- Donate -->
-  <a href="https://donate.suriyaa.tk/">
-    <img src="https://img.shields.io/badge/$-support-green.svg?style=flat-square"
+  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UZRFM579K6FL2&source=url">
+    <img src="https://img.shields.io/badge/Donate-PayPal-green.svg?style=flat-square"
       alt="Donate" />
   </a>
   <!-- Code of Conduct -->
