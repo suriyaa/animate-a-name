@@ -130,7 +130,7 @@
 - [Feedback](#feedback)
 - [Contributors](#contributors)
 - [License](#license)
-- [Backers](#backers)
+- [Donate](#donate)
 - [Acknowledgments](#acknowledgments)
 
 <h2 align="center">Introduction</h2>
@@ -193,9 +193,11 @@ This project follows the [all-contributors](https://github.com/kentcdodds/all-co
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE.md](./LICENSE.md) file for details
 
-<h2 align="center">Backers</h2>
+<h2 align="center">Donate</h2>
 
-Thank you to all my backers! [Become a backer!](https://donate.suriyaa.tk)
+If this project brings some sort of value to you, you can give me a cup of coffee. :-)
+
+[![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UZRFM579K6FL2&source=url)
 
 <h2 align="center">Acknowledgments</h2>
 
